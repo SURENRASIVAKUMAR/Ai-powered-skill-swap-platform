@@ -1,8 +1,28 @@
 # 🚀 AI-Powered Skill Swap Platform
 
-> An intelligent peer-to-peer learning platform where users learn and teach skills with AI-powered matching, quiz-based verification, and credit-based session economy.
-
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?logo=vercel)](https://ai-powered-skill-swap-platform.vercel.app)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+---
+
+## 📖 About
+
+The **AI-Powered Skill Swap Platform** is an intelligent peer-to-peer learning ecosystem designed to connect individuals seeking to learn new skills with experts ready to teach them. 
+
+Traditional learning platforms often lack personalized mentorship and can be prohibitively expensive. Our platform solves this by introducing a **credit-based economy**: you earn credits by teaching your expertise, and you spend credits to learn from others. This self-sustaining model democratizes education and fosters a community of continuous learning.
+
+Leveraging Artificial Intelligence, the platform intelligently matches learners with the most suitable tutors based on skill profiles and queries. It also features robust skill verification mechanisms, ensuring high-quality interactions and building trust within the community.
+
+---
+
+## 🧰 What You Need (Prerequisites)
+
+Before you begin setting up the project locally, ensure you have the following installed on your system:
+
+- **[Python 3.11+](https://www.python.org/downloads/)** — Required for the backend API and AI engine.
+- **[Node.js 18+](https://nodejs.org/)** — Required for running the React frontend.
+- **Git** — To clone the repository.
+- *(Optional)* **[Microsoft OpenJDK 21](https://learn.microsoft.com/en-us/java/openjdk/download)** — Only required if you intend to run Java code execution locally for skill verification.
 
 ---
 
@@ -30,11 +50,6 @@
 ---
 
 ## ⚡ Quick Start
-
-### Prerequisites
-- Python 3.11+
-- Node.js 18+
-- (Optional) Microsoft OpenJDK 21 for Java code execution
 
 ### 1. Backend
 
